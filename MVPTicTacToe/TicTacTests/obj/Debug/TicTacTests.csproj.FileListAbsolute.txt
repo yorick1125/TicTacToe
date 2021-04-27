@@ -1,0 +1,17 @@
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\TicTacTests.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\TicTacTests.pdb
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\MVPTicTacToe.exe
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\MVPTicTacToe.pdb
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\MVPTicTacToe.exe.config
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\obj\Debug\TicTacTests.csprojAssemblyReference.cache
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\obj\Debug\TicTacTests.csproj.CoreCompileInputs.cache
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\obj\Debug\TicTacTests.csproj.CopyComplete
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\obj\Debug\TicTacTests.dll
+C:\Users\Yoric\source\repos\MVPTicTacToe\TicTacTests\obj\Debug\TicTacTests.pdb

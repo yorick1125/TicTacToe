@@ -1,0 +1,42 @@
+﻿<Window x:Class="TicTacToeGuiMVP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TicTacToeGuiMVP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock FontSize="20" Padding="20" TextAlignment="Center">Tic Tac Toe</TextBlock>
+        <StackPanel Orientation="Horizontal" Margin="20">
+            <StackPanel Width="300">
+                <Button Name="StartButton" Padding="5" Width="80" HorizontalAlignment="Left" Click="Start_Game_Clicked">Start</Button>
+                <TextBlock Name="StatusLabel" Padding="5">Status:</TextBlock>
+                <TextBlock Name="NextLabel" Padding="5"></TextBlock>
+                <TextBlock Name="ErrorLabel" Padding="5" Foreground="Red"></TextBlock>
+            </StackPanel>
+            <Grid Name="TicTacToeGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="0" Grid.Column="0" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="0" Grid.Column="1" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="0" Grid.Column="2" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="1" Grid.Column="0" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="1" Grid.Column="1" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="1" Grid.Column="2" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="2" Grid.Column="0" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="2" Grid.Column="1" FontSize="48"></Button>
+                <Button Width="80" Height="80" Margin="2" Background="DarkBlue" Foreground="White" Click="CellClicked" Grid.Row="2" Grid.Column="2" FontSize="48"></Button>
+            </Grid>
+        </StackPanel>
+
+    </StackPanel>
+</Window>
